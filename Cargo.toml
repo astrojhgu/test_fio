@@ -1,0 +1,6 @@
+[package]
+name = "test_fio"
+version = "0.1.0"
+
+[dependencies]
+fitsio = ">=0.11.0"
